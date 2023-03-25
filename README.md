@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgnAutomating.
 - 👀 I’m interested in paying people to do my work.
 - 🌱 I’m currently learning how to spend less time working.
-- 💞️ I’m looking to collaborate on projects with finacial advisors.
+- 💞️ I’m looking to collaborate on projects with financial advisors.
 - 📫 How to reach me email partner@automating.pw
 
 <!---
