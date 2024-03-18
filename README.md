@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @IgnAutomating.
-- 👀 I’m interested in paying people to do my work.
-- 🌱 I’m currently learning how to spend less time working.
-- 💞️ I’m looking to collaborate on projects with financial advisors.
-- 📫 How to reach me email partner@automating.pw
+- 👋 Hi, I’m Automating.
+- 📫 How to reach me email via info@samcgjones.com
 
 <!---
 IgnAutomating/IgnAutomating is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
